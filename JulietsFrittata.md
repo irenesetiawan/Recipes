@@ -18,7 +18,7 @@
  * some slices of eggplant
  
  
-Steps:
+# Steps:
   1. Fry the diced onion using olive oil until almost translucent. Add the bacon pieces. Fry until almost done. Add all vegetables; the order of addition depends on the time needed to cook. Cook until done-ish.
   2. Meanwhile, butter one or two baking pans (depending on the size).
   3. Whisk the eggs. Add the cream, salt and pepper. Whisk together.
