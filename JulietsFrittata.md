@@ -1,20 +1,21 @@
-Ingredients:
-  1 onion, diced
-  250-300g bacon, sliced thinly
-  10-12 eggs
-  12 tbsp cream
-  1 tbsp butter
-  100-200g grated cheese
-  2 tbsp olive oil
-  salt
-  cracked black pepper
+# Ingredients:
+
+ * 1 onion, diced
+ * 250-300g bacon, sliced thinly
+ * 10-12 eggs
+ * 12 tbsp cream
+ * 1 tbsp butter
+ * 100-200g grated cheese
+ * 2 tbsp olive oil
+ * salt
+ * cracked black pepper
   
-  Vegetables such as:
-  3 carrots, grated
-  3 courgettes, grated
-  some spinach, chopped and then microwaved for 2 mins until wilted
-  some mushroom, chopped
-  some slices of eggplant
+ Vegetables such as:
+ * 3 carrots, grated
+ * 3 courgettes, grated
+ * some spinach, chopped and then microwaved for 2 mins until wilted
+ * some mushroom, chopped
+ * some slices of eggplant
  
  
 Steps:
