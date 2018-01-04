@@ -1,3 +1,3 @@
 # Recipes
 
-˜a collection of yama recipes˜
+˜a collection of yumma recipes˜
