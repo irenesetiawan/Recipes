@@ -27,3 +27,7 @@
   6. Sprinkle grated cheese.
   7. Bake at 180 C for 35-45 mins or until golden brown at the surface and cooked through. You can insert a knife, and see if it comes out clean.
   8. Enjoy! You can serve with some cherry tomatoes.
+
+  # Images: 
+  ![Fritatta1](https://raw.githubusercontent.com/mikemcowie/Recipes/master/images/Fritatta1.jpg)
+  ![Fritatta2](https://raw.githubusercontent.com/mikemcowie/Recipes/master/images/Fritatta2.jpg)
