@@ -34,4 +34,4 @@ Serving: 3-4 people
 2. Separate the egg noodles (they are usually stuck together in a sort of clump after stored in the fridge). Boil them in the broth for 2 minutes. Take the noodles out and place in a big bowl that's prepared with: 1 tbsp of the oil we made, 2 tbsp light soy sauce, 1 tbsp fish saue, 1 tsp pepper, 1/4 tbsp sweet soy sauce. Thoroughly mix the noodles and all the sauce together. Boil some spinach (no need to chop them) in the broth until wilted and set aside.
 
 * Serving:
-3. Place noodles in serving bowls. Add some of the boiled spinach in the bowl. Serve the broth in a separate small bowl, topped with some chopped spring onion as a garnish (optional). 
+1. Place noodles in serving bowls. Add some of the boiled spinach in the bowl. Serve the broth in a separate small bowl, topped with some chopped spring onion as a garnish (optional). 
