@@ -1,5 +1,5 @@
 # Ingredients:
-  * Pork chops (as many as you like); could substitute with fatty pieces of pork as well like pork belly
+  * Pork chops (as many as you like)
   
   For each pork chop:
   * 3 tbsp soy sauce (or 4 tbsp if your pork chop is large)
